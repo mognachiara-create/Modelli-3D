@@ -17,7 +17,7 @@
             <a-entity
             position="0 0 0"
             scale="0.035 0.035 0.035"
-            obj-model="obj: url(/media/Allestimento_museo_4.obj);mtl: url(/media/Allestimento_museo_4.mtl);"
+            obj-model="obj: url(/media/Parola.obj);mtl: url(/media/Parola.mtl);"
             > </a-entity>
         </a-marker>
 
